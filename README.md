@@ -19,7 +19,8 @@ This repository contains an interactive business intelligence dashboard built us
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]("https://raw.githubusercontent.com/Shresth062004/Company-Analysis/347dd1f056735386a5832a8aecd7b55396f739ce/Screenshot%202025-06-02%20132958.png")
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/52622c80-6fa0-4a91-aac5-ea7540d5cef6)
+)
 
 ---
 
